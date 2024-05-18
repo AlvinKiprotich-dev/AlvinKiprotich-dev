@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alvin Kiprotich
-- 👀 I’m interested in Software Development
+- A techNerd 🤓 
+- 👀 I’m in love Software Development
 - 🌱 I’m currently learning 
 - 📫 How to reach me LinkedIn: Alvin Kiprotich
  
