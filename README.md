@@ -2,7 +2,7 @@
 - A techNerd 🤓 
 - 👀 I’m in love Software Development
 - 🌱 I’m currently learning 
-- 📫 How to reach me LinkedIn: Alvin Kiprotich
+- 📫 How to reach me LinkedIn: AlvinKiprotich-dev
  
 
 <!---
