@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alvin Kiprotich
 - A techNerd 🤓 
 - 👀 I’m in love with tech
-- 🌱 I’m currently learning 
+- 🌱 I’m currently working as I learn 
 - 📫 How to reach me LinkedIn: Alvin Kiprotich
  
 
