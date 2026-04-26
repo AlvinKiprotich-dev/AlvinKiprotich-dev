@@ -2,55 +2,52 @@
 
 ### Full-Stack Developer | Mobile Developer | Tech Innovator
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in building scalable applications across web and mobile platforms. I specialize in creating solutions that solve real-world problems in emerging markets.
+Welcome to my GitHub profile! I'm a passionate developer with expertise in building scalable applications across web and mobile platforms. I specialize in creating solutions that solve real-world problems in emerging markets. I am the change I wanna see.
 
 ---
 
 ## About Me
 
-- 🔭 I recently worked on **Riderescue Autolink** - a comprehensive automotive rescue and services platform
-- 💼 Full-stack developer with hands-on experience in **Dart**, **TypeScript**, **Python**, and **JavaScript**
-- 🎯 Focused on building user-centric applications for fintech, real estate, and automotive sectors
-- 📚 Continuous learner exploring Web3 and AI technologies
-- 🌍 Based in Kenya, contributing to the African tech ecosystem
+-  I recently worked on **Riderescue Autolink** - a comprehensive automotive rescue and services platform
+-  Full-stack developer with hands-on experience in **Dart**, **TypeScript**, **Python**, and **JavaScript**
+-  Focused on building user-centric applications for fintech, real estate, and automotive sectors
+-  Continuous learner exploring Web3 and AI technologies
+-  Based in Kenya, contributing to the African tech ecosystem
 
 ---
 
-## 💡 Key Projects
+##  Key Projects
 
-### 🚗 **RideRescue Autolink**
+###  **RideRescue Autolink**
 A comprehensive platform connecting drivers with rescue services, mechanics, garages, and service providers.
 - **Multi-platform apps**: Driver app, Mechanic app, Garage app, Services app
 - **Tech Stack**: Dart (Flutter), TypeScript (Next.js), Node.js
-- **Components**: 
-  - [Backend API](https://github.com/AlvinKiprotich-dev/RiderescueAutolink_backend)
-  - [Website](https://github.com/AlvinKiprotich-dev/RiderescueAutolink_site)
-  - [Driver App](https://github.com/AlvinKiprotich-dev/RiderescueAutolink_driver)
  
-### 💰 **MamaPesa**
+ 
+###  **MamaPesa**
 Mobile financial application built with Flutter
 - **Tech Stack**: Dart/Flutter
 - ⭐ 1 star
 
-### 💎 **Soko Beauty**
+###  **Soko Beauty**
 E-commerce platform for beauty products
 - **Tech Stack**: Dart/Flutter
 - ⭐ 1 star
 
-### 🏠 **NyumbaniConnect**
+###  **NyumbaniConnect**
 A digital platform bringing trust, efficiency, and convenience to Kenya's real estate market.
 - Addresses tenant fraud, high vacancy rates, and lack of verified property listings
 - **Tech Stack**: JavaScript (React/Node.js)
 - **Impact**: Solving critical issues in Kenya's fragmented real estate sector
 
 
-### 🤖 **AI Projects**
+###  **AI Projects**
 - **ChamaWeb3**: Web3 and blockchain exploration
 - **Mama_AI**: AI-powered solutions (collaborative project)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**
 - Dart (Flutter)
@@ -76,7 +73,7 @@ A digital platform bringing trust, efficiency, and convenience to Kenya's real e
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 - **Total Repositories**: 30+
 - **Languages**: Dart, TypeScript, Python, JavaScript, Java
@@ -85,7 +82,7 @@ A digital platform bringing trust, efficiency, and convenience to Kenya's real e
 
 ---``e8ieh8
 
-## 🎓 My Approach
+##  My Approach
 
 - ✅ **User-Centric Design**: Building solutions that address real problems
 - ✅ **Clean Code**: Following best practices and design patterns
@@ -95,7 +92,7 @@ A digital platform bringing trust, efficiency, and convenience to Kenya's real e
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 - Open to collaborations, freelance projects, and innovative ideas
 - Interested in tech for social good and emerging market solutions
@@ -103,8 +100,9 @@ A digital platform bringing trust, efficiency, and convenience to Kenya's real e
 - Email : alvinkiprotichkipchoge@gmail.com
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
+- Building and deploying scallable apps (android & ios)  
 - Building scalable backend systems for multi-platform applications
 - Optimizing mobile app performance and user experience
 - Exploring Web3 and AI integration in web and mobile apps
