@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Alvin Kiprotich
+# Hi there, I'm Alvin Kiprotich
 
 ### Full-Stack Developer | Mobile Developer | Tech Innovator
 
@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in build
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I recently worked on **RideRescue Autolink** - a comprehensive automotive rescue and services platform
+- 🔭 I recently worked on **Riderescue Autolink** - a comprehensive automotive rescue and services platform
 - 💼 Full-stack developer with hands-on experience in **Dart**, **TypeScript**, **Python**, and **JavaScript**
 - 🎯 Focused on building user-centric applications for fintech, real estate, and automotive sectors
 - 📚 Continuous learner exploring Web3 and AI technologies
@@ -69,7 +69,7 @@ A digital platform bringing trust, efficiency, and convenience to Kenya's real e
 - TypeScript/Express
 
 **Specializations:**
-- Mobile app development (iOS & Android)
+- Mobile app development and deployment (iOS & Android)
 -  Full-stack web development
 - API design and development
 - Database design & optimization
@@ -83,18 +83,7 @@ A digital platform bringing trust, efficiency, and convenience to Kenya's real e
 - **Notable Contributions**: RideRescue ecosystem, NyumbaniConnect, MamaPesa
 - **Collaborative Projects**: RideRescue Autolink (organizational repos)
 
----
-
-##  Highlighted Contributions
-
-| Project | Type | Tech | Status |
-|---------|------|------|--------|
-| [RideRescue Autolink](https://github.com/AlvinKiprotich-dev/RiderescueAutolink) | Full Platform | Dart/TS/Node | 🔄 Active |
-| [NyumbaniConnect](https://github.com/Muchina-254/NyumbaniConnect) | Real Estate Platform | JavaScript | ✅ Launched |
-| [MamaPesa](https://github.com/AlvinKiprotich-dev/MamaPesa) | Fintech App | Dart | ✅ Complete |
-| [Soko Beauty](https://github.com/AlvinKiprotich-dev/Soko-Beauty) | E-Commerce | Dart | ✅ Complete |
-
----
+---``e8ieh8
 
 ## 🎓 My Approach
 
